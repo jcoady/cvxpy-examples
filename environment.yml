@@ -3,4 +3,5 @@ channels:
   - cvxgrp
 dependencies:
   - python=2.7
+  - matplotlib
   - cvxpy
