@@ -1,0 +1,5 @@
+name: cvxpy-examples
+
+dependencies:
+  - python=2.7
+  - -c cvxgrp cvxpy
